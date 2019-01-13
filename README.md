@@ -1,2 +1,1 @@
-# msc-homework-projects
-MSc Homework Projects
+# MSc Homework Projects
